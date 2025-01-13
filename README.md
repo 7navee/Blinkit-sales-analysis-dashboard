@@ -21,3 +21,6 @@ All Matrics by outlet type : show in matrics table
 
 #Dashboard
 ![image alt](https://raw.githubusercontent.com/7navee/Blinkit-sales-analysis-dashboard/038b314923136fc31a433dcde33d144ab9c16a90/Screenshot%202025-01-13%20082841.png)
+
+#Filter applied  dashboards
+![image alt](https://raw.githubusercontent.com/7navee/Blinkit-sales-analysis-dashboard/d328a657ae61c47eb707db4716e3dc9429875bbf/Screenshot%202025-01-13%20082915.png)
