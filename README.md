@@ -19,3 +19,4 @@ Sales by outlet size : Show in donut chart / Pie chart.
 Sales by outlet Location : Show in Funnel map chart. 
 All Matrics by outlet type : show in matrics table
 
+![image alt](https://raw.githubusercontent.com/7navee/Blinkit-sales-analysis-dashboard/038b314923136fc31a433dcde33d144ab9c16a90/Screenshot%202025-01-13%20082841.png)
